@@ -41,7 +41,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Shanghai Jiao Tong University
-      year: 2012
+      year: 2021~Now
     - course: MSc in Computer Science
       institution: Fudan University
       year: 2018~2021
