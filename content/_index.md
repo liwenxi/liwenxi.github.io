@@ -253,6 +253,28 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: Global Nexus of Intelligent Research
+      text: |-      
+        <style>
+        .content-wrapper {
+          max-width: 200px; /* 设置内容的最大宽度 */
+          margin: 0 auto; /* 居中显示 */
+        }
+        .limited-size {
+          max-width: 100%; /* 确保内部内容不会超出容器宽度 */
+          max-height: 100px;
+          overflow: hidden;
+        }
+        </style>
+        <div class="content-wrapper">
+          <script type="text/javascript" id="clstr_globe" class="limited-size" src="//clustrmaps.com/globe.js?d=9qYQma5Tl05H7vBYvhJ4gH0wANqVjPRWZASy00WUnNA"></script>
+        </div>
+    design:
+      # Choose a layout view
+      # view: list
+      columns: '2'
   # - block: collection
   #   id: talks
   #   content:
