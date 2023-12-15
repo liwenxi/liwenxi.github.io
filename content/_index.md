@@ -40,6 +40,7 @@ sections:
     id: about
     content:
       title: Biography
+      # title: Welcome👋
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: markdown
@@ -47,17 +48,29 @@ sections:
     content:
       title: News
       text: "
-            - 12/2023: One paper accepted to the 2024 IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2024!
+            - 12/2023: One paper accepted to ICASSP 2024.<br><br>
+             
+            - 12/2023: One paper accepted to AAAI 2024.<br><br>
 
-            - 12/2023: One paper accepted to the 38th Annual AAAI Conference on Artificial Intelligence, AAAI 2024!
-
-            - 10/2023: I serve as a reviewer of TNNLS!
+            - 10/2023: I serve as a reviewer of TNNLS.<br><br>
       
-            - 07/2023: I won 1st place in the GigaDetection Challenge at the 3rd CAAI International Conference on Artificial Intelligence.
+            - 07/2023: I won 1st place in the [GigaDetection Challenge](https://www.gigavision.cn/track/track?nav=Detection&type=nav&t=1702624389724) at [CICAI 2023](https://cicai.caai.cn/#/).<br><br>
 
-            - 07/2023: One paper accepted to the 31st ACM International Conference on Multimedia, ACM-MM 2023!
+            - 07/2023: One paper accepted to ACM MM 2023.<br><br>
 
-            - 06/2023: One paper accepted to the 32nd International Conference on Artificial Neural Networks, ICANN 2023!
+            - 06/2023: One paper accepted to ICANN 2023.<br><br>
+
+            - 09/2022: I initiated my research in Beijing.<br><br>
+
+            - 09/2021: I began pursuing my doctoral degree at Shanghai Jiao Tong University.<br><br>
+
+            - 06/2021: I obtained my Master of Science degree at Fudan University.<br><br>
+
+            - 09/2020: One paper accepted to ICPR 2020.<br><br>
+
+            - 04/2020: One paper accepted to IJCNN 2020.<br><br>
+
+            - 09/2018: I joined CMIT(VTS) lab at Fudan University.<br><br>
       "
       username: admin
       filters:

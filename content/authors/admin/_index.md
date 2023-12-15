@@ -41,13 +41,13 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Shanghai Jiao Tong University
-      year: 2021~Now
+      year: 2021-Now
     - course: MSc in Computer Science
       institution: Fudan University
-      year: 2018~2021
+      year: 2018-2021
     - course: BSc in Software Engineering
       institution: Northeastern University
-      year: 2014~2018
+      year: 2014-2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

@@ -1,5 +1,5 @@
 ---
-title: Semantic Enrichment for Video Question Answering with Gated Graph Neural Networks'
+title: Semantic Enrichment for Video Question Answering with Gated Graph Neural Networks
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -17,7 +17,7 @@ authors:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2023-12-14T00:00:00Z'
+date: '2024-04-14T00:00:00Z'
 # doi: 'https://doi.org/10.1145/3581783.3612132'
 
 # Schedule page publish date (NOT publication's date).
