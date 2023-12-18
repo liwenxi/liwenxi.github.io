@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About Me
       # title: Welcome👋
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -114,6 +114,7 @@ sections:
     design:
       columns: '2'
       view: citation
+      flip_alt_rows: true
   # - block: experience
   #   content:
   #     title: Experience

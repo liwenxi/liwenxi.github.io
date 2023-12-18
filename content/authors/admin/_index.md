@@ -123,11 +123,13 @@ social:
 highlight_name: true
 ---
 
-I pursue my doctoral studies at the [Beijing National Research Center for Information Science and Technology (BNRist)](https://www.bnrist.tsinghua.edu.cn/) and the [Shanghai Jiao Tong University (SJTU) ](https://en.sjtu.edu.cn/), advised by [Yuchen Guo](https://scholar.google.com/citations?user=PNMUgAoAAAAJ), [Chao Ma](https://vision.sjtu.edu.cn/), [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ) and [Qionghai Dai](https://scholar.google.com/citations?user=CHAajY4AAAAJ). Before that, I received my M.Sc. in Computer Science from [Fudan University](https://www.fudan.edu.cn/en/), advised by [Rui Feng](https://faculty.fudan.edu.cn/fengrui/zh_CN/zhym/667350/list/index.htm).
+I pursue my doctoral studies at the [Beijing National Research Center for Information Science and Technology (BNRist)](https://www.bnrist.tsinghua.edu.cn/) and the [Shanghai Jiao Tong University (SJTU) ](https://en.sjtu.edu.cn/), advised by [Yuchen Guo](https://scholar.google.com/citations?user=PNMUgAoAAAAJ), [Chao Ma](https://vision.sjtu.edu.cn/), [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ) and [Qionghai Dai](https://scholar.google.com/citations?user=CHAajY4AAAAJ). Before that, I received my M.Sc. in Computer Science from [Fudan University](https://www.fudan.edu.cn/en/), advised by [Rui Feng](https://faculty.fudan.edu.cn/fengrui/zh_CN/zhym/667350/list/index.htm). During my research career, I have been fortunate to work with [Chenyang Lyu](https://lyuchenyang.github.io/) and [Xuehui Wang](https://huiserwang.site/), both of whom were my roommates.
 
 
-I'm currently researching [Gigapixel Object Detection](https://gigavision.cn/) and its applications in *Science*. I'm also looking into what visual language models bring and how to develop prompts for large visual models. My academic interests extend beyond Computer Vision, encompassing a wider range of Artificial Intelligence. 
 
-**If this area intrigues you or ignites your curiosity, I warmly invite you to contact me via email. Let's embark on an exciting journey of exploration and discovery together.**
+
+I am currently researching [Gigapixel Object Detection](https://gigavision.cn/) and its applications in [*Science*](https://github.com/liwenxi/SWIFT-AI). I am also looking into what [visual language models](https://dl.acm.org/doi/10.1145/3581783.3612132) bring and how to develop prompts for large visual models. My academic interests extend beyond Computer Vision, encompassing a wider range of Artificial Intelligence. 
+
+**If this area intrigues you or ignites your curiosity, I warmly invite you to contact me via email. Let us embark on an exciting journey of exploration and discovery together.**
 
 {style="text-align: justify;"}

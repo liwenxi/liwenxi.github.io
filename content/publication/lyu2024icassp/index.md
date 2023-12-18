@@ -5,8 +5,8 @@ title: Semantic Enrichment for Video Question Answering with Gated Graph Neural 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Wenxi Li
   - Chenyang Lyu
+  - Wenxi Li
   - Tianbo Ji
   - Yi Yu
   - Longyue Wang
@@ -32,7 +32,7 @@ publication_types: ['paper-conference']
 publication: In *2024 IEEE International Conference on Acoustics, Speech and Signal Processing*
 publication_short: In *ICASSP 2024*
 
-abstract: "Video Question Answering~(VideoQA) is a complex task that requires a deep understanding of a video to accurately answer questions. Existing methods often struggle to effectively integrate the visual and language-based semantic information, subsequently leading to an incomplete understanding of video content and sub-optimal performance. To address the challenge, we introduce a novel approach in this paper to enrich the semantics of video frames, questions, and answer candidates. Specifically, we parse video frames and questions into semantic graphs - visual semantic graph and question semantic graph, which captures information about objects, their attributes, and relationships. These graphs are then encoded using a Gated Graph Neural Network~(GGNN), For answer candidates, we propose to verbalize them using Large Language Models~(LLMs) to further inject more semantic information from visual and acoustic aspects. We evaluate our approach on benchmark VideoQA datasets: AVQA and Music-AVQA. Experimental results show that our approach outperforms competitive baseline models, achieving state-of-the-art performance on various question types."
+abstract: "Video Question Answering (VideoQA) is a complex task that requires a deep understanding of a video to accurately answer questions. Existing methods often struggle to effectively integrate the visual and language-based semantic information, subsequently leading to an incomplete understanding of video content and sub-optimal performance. To address the challenge, we introduce a novel approach in this paper to enrich the semantics of video frames, questions, and answer candidates. Specifically, we parse video frames and questions into semantic graphs - visual semantic graph and question semantic graph, which captures information about objects, their attributes, and relationships. These graphs are then encoded using a Gated Graph Neural Network (GGNN), For answer candidates, we propose to verbalize them using Large Language Models (LLMs) to further inject more semantic information from visual and acoustic aspects. We evaluate our approach on benchmark VideoQA datasets: AVQA and Music-AVQA. Experimental results show that our approach outperforms competitive baseline models, achieving state-of-the-art performance on various question types."
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -47,8 +47,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: 'https://dl.acm.org/doi/10.1145/3581783.3612132'
-# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://www.researchgate.net/publication/376522333_SEMANTIC_ENRICHMENT_FOR_VIDEO_QUESTION_ANSWERING_WITH_GATED_GRAPH_NEURAL_NETWORKS'
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder']
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
@@ -79,12 +79,12 @@ featured: false
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
 <!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
