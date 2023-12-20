@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'Wenxi Li pursues his doctoral studies at the Beijing National Research Center for Information Science and Technology (BNRist) and the Shanghai Jiao Tong University (SJTU), advised by Yuchen Guo, Chao Ma, Xiaokang Yang and Qionghai Dai. Before that, he received his M.Sc. in Computer Science from Fudan University, advised by Rui Feng. During his research career, he has been fortunate to work with Chenyang Lyu and Xuehui Wang, both of whom were his roommates.'
+    twitter: 'Wenxi Li'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
