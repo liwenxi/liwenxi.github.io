@@ -27,9 +27,9 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  event: '/talk/:slug/'
+  # event: '/talk/:slug/'
   tags: '/tag/:slug/'
-  categories: '/category/:slug/'
+  # categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
@@ -42,7 +42,7 @@ imaging:
 timeout: 600000
 taxonomies:
   tag: tags
-  category: categories
+  # category: categories
   publication_type: publication_types
   author: authors
 markup:
@@ -54,8 +54,8 @@ related:
   indices:
     - name: tags
       weight: 100
-    - name: categories
-      weight: 70
+    # - name: categories
+    #   weight: 70
 security:
   _merge: deep
 sitemap:
