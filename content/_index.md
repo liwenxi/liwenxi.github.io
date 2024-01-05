@@ -48,6 +48,8 @@ sections:
     content:
       title: News
       text: "
+            - #### 01/2024: I serve as a reviewer of ICPR 2024.<br>
+
             - #### 12/2023: One paper accepted to ICASSP 2024.<br>
              
             - #### 12/2023: One paper accepted to AAAI 2024.<br>
@@ -60,7 +62,11 @@ sections:
 
             - #### 06/2023: One paper accepted to ICANN 2023.<br>
 
+            - #### 05/2023: I served as an emergency reviewer of ICCV 2023.<br>
+
             - #### 09/2022: I initiated my research in Beijing.<br>
+
+            - #### 05/2022: I served as an emergency reviewer of ECCV 2022.<br>
 
             - #### 09/2021: I began pursuing my doctoral degree at Shanghai Jiao Tong University.<br>
 
