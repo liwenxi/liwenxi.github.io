@@ -48,6 +48,8 @@ sections:
     content:
       title: News
       text: "
+            - #### 01/2024: I serve as a reviewer of ECCV 2024.<br>
+
             - #### 01/2024: I serve as a reviewer of ICPR 2024.<br>
 
             - #### 12/2023: One paper accepted to ICASSP 2024.<br>
