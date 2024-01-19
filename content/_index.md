@@ -48,6 +48,8 @@ sections:
     content:
       title: News
       text: "
+            - #### 01/2024: I serve as a reviewer of ICME 2024.<br>
+
             - #### 01/2024: I serve as a reviewer of ECCV 2024.<br>
 
             - #### 01/2024: I serve as a reviewer of ICPR 2024.<br>
