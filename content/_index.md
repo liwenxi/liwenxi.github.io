@@ -48,6 +48,8 @@ sections:
     content:
       title: News
       text: "
+            - #### 05/2024: One paper accepted to TIP and another one accepted to ECML-PKDD 2024.<br>
+
             - #### 04/2024: I serve as a reviewer of ACM MM 2024.<br>
 
             - #### 01/2024: I served as a reviewer of ICME 2024.<br>
