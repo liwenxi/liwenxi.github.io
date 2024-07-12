@@ -74,13 +74,15 @@ sections:
 
             - #### 05/2023: I served as an emergency reviewer of ICCV 2023.<br>
 
-            - #### 09/2022: I initiated my research in Beijing.<br>
+            - #### 09/2022: I changed my workplace to Beijing.<br>
 
             - #### 05/2022: I served as an emergency reviewer of ECCV 2022.<br>
 
             - #### 09/2021: I began pursuing my doctoral degree at Shanghai Jiao Tong University.<br>
 
             - #### 06/2021: I obtained my Master of Science degree at Fudan University.<br>
+
+            - #### 01/2021: I joined [BBNC](https://media.au.tsinghua.edu.cn/index.htm) lab of Tsinghua University.<br>
 
             - #### 09/2020: One paper accepted to ICPR 2020.<br>
 

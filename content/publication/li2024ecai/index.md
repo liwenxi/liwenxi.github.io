@@ -1,5 +1,5 @@
 ---
-title: 'SaccadeDet: A Novel Dual-Stage Architecture for Rapid and Accurate Detection in Gigapixel Images'
+title: 'SaccadeMOT: Enhancing Object Detection and Tracking in Gigapixel Images via Scale-Aware Density Estimation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -17,11 +17,11 @@ authors:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2024-05-30T00:00:00Z'
+date: '2024-07-05T00:00:00Z'
 # doi: 'https://doi.org/10.1109/TIP.2024.3404257'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-05-30T00:00:00Z'
+publishDate: '2024-07-05T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -29,10 +29,10 @@ publishDate: '2024-05-30T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2024"
-publication_short: In *ECML-PKDD 2024*
+publication: In "27th European Conference on Artificial Intelligence"
+publication_short: In *ECAI 2024*
 
-abstract: "The advancement of deep learning in object detection has predominantly focused on megapixel images, leaving a critical gap in efficient processing of gigapixel images. These super high-resolution images present unique challenges due to their immense size and computational demands. To address this, we introduce 'SaccadeDet', an innovative architecture for gigapixel-level object detection, inspired by the human eye saccadic movement. The cornerstone of SaccadeDet is its ability to strategically select and process image regions, dramatically reducing computational load. This is achieved through a two-stage process: the 'saccade' stage, which identifies regions of probable interest, and the 'gaze' stage, which refines detection in these targeted areas. Our approach, evaluated on the PANDA dataset, not only achieves a 8x speed increase over the state-of-the-art methods but also demonstrates significant potential in gigapixel-level pathology analysis through its application to Whole Slide Imaging."
+abstract: "The advancement of deep learning in object detection and tracking has predominantly focused on megapixel images, leaving a critical gap in efficient processing of gigapixel images. These super high-resolution images present unique challenges due to their immense size and computational demands. To address this, we introduce SaccadeMOT, an innovative architecture for gigapixel-level multi-object tracking, inspired by the human eye saccadic movement. The cornerstone of SaccadeMOT is its ability to strategically select and process image regions, dramatically reducing computational load. The part of the detection phase is achieved through a two-stage process: the 'saccade' stage, which identifies regions of probable interest, and the 'gaze' stage, which refines detection in these targeted areas. Based on detection results, we track every object by a combination of head tracking and body tracking. Our approach, evaluated on the PANDA dataset, not only achieves a 8x speed increase over the state-of-the-art methods but also demonstrates significant potential in gigapixel-level pathology analysis through its application to Whole Slide Imaging."
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -58,10 +58,10 @@ featured: yes
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: 'Center'
-  preview_only: false
+# image:
+#   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ''
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
