@@ -48,7 +48,7 @@ sections:
     content:
       title: News
       text: "
-            - #### 05/2024: One paper accepted to ACM MM 2024.<br>
+            - #### 07/2024: One paper accepted to ACM MM 2024.<br>
 
             - #### 05/2024: One paper accepted to ECAI 2024.<br>
 
