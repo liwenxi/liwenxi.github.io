@@ -48,25 +48,29 @@ sections:
     content:
       title: News
       text: "
+            - #### 09/2024: One paper accepted to CVIU.<br>
+
+            - #### 08/2024: I serve as a reviewer of ICLR 2024.<br>
+
             - #### 07/2024: One paper accepted to ACM MM 2024.<br>
 
             - #### 05/2024: One paper accepted to ECAI 2024.<br>
 
             - #### 05/2024: One paper accepted to TIP and another one accepted to ECML-PKDD 2024.<br>
 
-            - #### 04/2024: I serve as a reviewer of ACM MM 2024.<br>
+            - #### 04/2024: I served as a reviewer of ACM MM 2024.<br>
 
             - #### 01/2024: I served as a reviewer of ICME 2024.<br>
 
-            - #### 01/2024: I serve as a reviewer of ECCV 2024.<br>
+            - #### 01/2024: I served as a reviewer of ECCV 2024.<br>
 
-            - #### 01/2024: I serve as a reviewer of ICPR 2024.<br>
+            - #### 01/2024: I served as a reviewer of ICPR 2024.<br>
 
             - #### 12/2023: One paper accepted to ICASSP 2024.<br>
              
             - #### 12/2023: One paper accepted to AAAI 2024.<br>
 
-            - #### 10/2023: I serve as a reviewer of TNNLS.<br>
+            - #### 10/2023: I served as a reviewer of TNNLS.<br>
       
             - #### 07/2023: I won 1st place in the [GigaDetection Challenge](https://www.gigavision.cn/track/track?nav=Detection&type=nav&t=1702624389724) at [CICAI 2023](https://cicai.caai.cn/#/).<br>
 
