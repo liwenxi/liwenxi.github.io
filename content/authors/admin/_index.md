@@ -122,7 +122,7 @@ social:
 highlight_name: true
 ---
 
-I am a **Pre-Tenure Associate Professor** in the **[School of Statistics, East China Normal University](https://faculty.ecnu.edu.cn/_s35/lwx2_en/main.psp)**, where I have worked since November 2025. I received my Ph.D. in Computer Science from Shanghai Jiao Tong University in June 2025 through a joint program with Tsinghua University. Previously, I received my M.Sc. in Computer Science from Fudan University and my B.Eng. in Software Engineering from Northeastern University.
+I am a **Pre-Tenure Associate Professor** in the **[School of Statistics, East China Normal University](https://faculty.ecnu.edu.cn/_s35/lwx2_en/main.psp)**, where I have worked since November 2025. I received my Ph.D. in Computer Science from Shanghai Jiao Tong University in June 2025 through a joint program with Tsinghua University, advised by **[Yuchen Guo](https://scholar.google.com/citations?user=PNMUgAoAAAAJ)** and **[Qionghai Dai](https://scholar.google.com/citations?user=CHAajY4AAAAJ)**. Previously, I received my M.Sc. in Computer Science from Fudan University and my B.Eng. in Software Engineering from Northeastern University.
 
 My research focuses on **computer vision, deep learning, and efficient AI models**. I work on object detection in gigapixel and high-resolution wide (HRW) images, vision Transformers, dynamic sparse computation, and model efficiency. My recent work explores adaptive sparsity, activation-based window pruning, elastic computation, and mixture-of-experts architectures to improve visual perception while reducing computational cost.
 
