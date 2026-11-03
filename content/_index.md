@@ -14,9 +14,10 @@ sections:
     content:
       title: News
       text: |-
-        - **2026:** Three papers accepted to **NeurIPS 2026**: AWP, SpanFormer, and BiHashFormer.
-        - **2026:** ElasticFormer accepted to **CVPR 2026**; GigaMoE and 2D-CrossScan Mamba accepted to **AAAI 2026**.
-        - **Autumn 2026:** Teaching **Computer Vision** and **Deep Learning** at ECNU.
+        - **September 2026:** Three papers accepted to **NeurIPS 2026**: AWP, SpanFormer, and BiHashFormer.
+        - **September 2026:** Started teaching **Computer Vision** and **Deep Learning** at ECNU.
+        - **February 2026:** ElasticFormer accepted to **CVPR 2026**.
+        - **November 2025:** Two papers accepted to **AAAI 2026**: GigaMoE and 2D-CrossScan Mamba.
         - **November 2025:** Joined the **School of Statistics, East China Normal University** as a **Pre-Tenure Associate Professor**.
         - **June 2025:** Received my Ph.D. and the **Outstanding Graduate** honor from Shanghai Jiao Tong University.
         - **December 2024:** Awarded the **National Scholarship for Doctoral Students**.
