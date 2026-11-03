@@ -17,35 +17,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate, Artificial Intelligence
+role: Pre-Tenure Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Shanghai Jiao Tong University
-    url: https://en.sjtu.edu.cn/
+  - name: School of Statistics, East China Normal University
+    url: https://faculty.ecnu.edu.cn/_s35/lwx2_en/main.psp
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 2d/3d/gigapixel-level object detection and prompt learning.
+bio: I study computer vision, deep learning, and efficient AI, with a focus on gigapixel object detection and adaptive sparse computation.
 
 # Interests to show in About widget
 interests:
-  - 2D/3D/Gigapixel-level Object Detection
-  - Visual Language Model/Large Vision Model
-  - Prompt Learning
-  - Graph Neural Network
-  - OCR/Document Layout Analysis
-  - Crowd Counting
+  - Computer Vision and Deep Learning
+  - Gigapixel Object Detection
+  - Vision Transformers
+  - Adaptive Sparse Computation
+  - Efficient and Lightweight AI Models
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Computer Science
       institution: Shanghai Jiao Tong University
-      year: 2021-Now
+      year: 2021–2025
     - course: MSc in Computer Science
       institution: Fudan University
       year: 2018-2021
-    - course: BSc in Software Engineering
+    - course: BEng in Software Engineering
       institution: Northeastern University
       year: 2014-2018
 
@@ -96,7 +95,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:wenxi.li@sjtu.edu.cn'
+    link: 'mailto:wxli@sfs.ecnu.edu.cn'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/liwenxi121
@@ -123,13 +122,10 @@ social:
 highlight_name: true
 ---
 
-I am pursuing my doctoral studies at the [Beijing National Research Center for Information Science and Technology (BNRist)](https://www.bnrist.tsinghua.edu.cn/) and the [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by [Yuchen Guo](https://scholar.google.com/citations?user=PNMUgAoAAAAJ), [Chao Ma](https://vision.sjtu.edu.cn/), [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ) and [Qionghai Dai](https://scholar.google.com/citations?user=CHAajY4AAAAJ). Before that, I received my M.Sc. in Computer Science from [Fudan University](https://www.fudan.edu.cn/en/), advised by [Rui Feng](https://faculty.fudan.edu.cn/fengrui/zh_CN/zhym/667350/list/index.htm). During my research career, I have been fortunate to work with [Chenyang Lyu](https://lyuchenyang.github.io/) and [Xuehui Wang](https://huiserwang.site/), both of whom were my roommates.
+I am a **Pre-Tenure Associate Professor** in the **[School of Statistics, East China Normal University](https://faculty.ecnu.edu.cn/_s35/lwx2_en/main.psp)**, where I have worked since November 2025. I received my Ph.D. in Computer Science from Shanghai Jiao Tong University in June 2025 through a joint program with Tsinghua University. Previously, I received my M.Sc. in Computer Science from Fudan University and my B.Eng. in Software Engineering from Northeastern University.
 
+My research focuses on **computer vision, deep learning, and efficient AI models**. I work on object detection in gigapixel and high-resolution wide (HRW) images, vision Transformers, dynamic sparse computation, and model efficiency. My recent work explores adaptive sparsity, activation-based window pruning, elastic computation, and mixture-of-experts architectures to improve visual perception while reducing computational cost.
 
+I teach **Computer Vision** and **Deep Learning** at ECNU. In teaching, I connect the foundations of artificial intelligence with current research and practical projects to help students develop independent thinking and hands-on research skills.
 
-
-I am currently researching [Gigapixel Object Detection](https://gigavision.cn/) and its applications in [*Science*](https://github.com/liwenxi/SWIFT-AI). I am also looking into what [visual language models](https://dl.acm.org/doi/10.1145/3581783.3612132) bring and how to develop prompts for large visual models. My academic interests extend beyond Computer Vision, encompassing a wider range of Artificial Intelligence. 
-
-**If this area intrigues you or ignites your curiosity, I warmly invite you to contact me via email. Let us embark on an exciting journey of exploration and discovery together.**
-
-{style="text-align: justify;"}
+I welcome research discussions and collaborations. Please contact me at **[wxli@sfs.ecnu.edu.cn](mailto:wxli@sfs.ecnu.edu.cn)**.
